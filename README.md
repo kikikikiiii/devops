@@ -12,5 +12,7 @@ DevOps 수업에서 진행한 주차별 실습 내용을 정리한 저장소입�
 | 5주차 | Docker 기초 | [바로가기](week05/README.md) |
 | 6주차 | Dockerfile | [바로가기](week06/README.md) |
 | 7주차 | Docker Compose | [바로가기](week07/README.md) |
+| 9주차 | Kubernetes 기초 | [바로가기](week09/README.md) |
 | 10주차 | Kubernetes Deployment & Service | [바로가기](week10/README.md) |
 | 11주차 | Kubernetes ConfigMap, Secret, Probe | [바로가기](week11/README.md) |
+| 12주차 | GitHub Actions 및 CI/CD | [바로가기](week12/README.md) |
