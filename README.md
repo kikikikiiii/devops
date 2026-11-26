@@ -16,4 +16,7 @@ DevOps 수업에서 진행한 주차별 실습 내용을 정리한 저장소입�
 | 10주차 | Kubernetes Deployment & Service | [바로가기](week10/README.md) |
 | 11주차 | Kubernetes ConfigMap, Secret, Probe | [바로가기](week11/README.md) |
 | 12주차 | GitHub Actions 및 CI/CD | [바로가기](week12/README.md) |
-| 13주차 | GitOps 및 모니터링 | [바로가기](week13/README.md) || 13주차 | GitOps 및 모니터링 | [바로가기](week13/README.md) |
+| 13주차 | GitOps 및 모니터링 | [바로가기](week13/README.md) |
+
+## 프로젝트 과제
+- [프로젝트 과제 및 발표 자료](./project/README.md)
