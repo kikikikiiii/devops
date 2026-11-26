@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: guestbook-config
+data:
+  APP_TITLE: "나린이의 DevOps 방명록"
+  THEME_COLOR: "#8b5cf6"
+  REDIS_HOST: "redis"
+  REDIS_PORT: "6379"
